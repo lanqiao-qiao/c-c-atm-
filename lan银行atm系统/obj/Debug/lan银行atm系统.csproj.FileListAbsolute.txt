@@ -1,0 +1,17 @@
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\bin\Debug\lan银行atm系统.exe.config
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\bin\Debug\lan银行atm系统.exe
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\bin\Debug\lan银行atm系统.pdb
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.csprojAssemblyReference.cache
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form1.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form10.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form2.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form3.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form4.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form5.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form6.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Form7.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.Properties.Resources.resources
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.csproj.GenerateResource.cache
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.csproj.CoreCompileInputs.cache
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.exe
+D:\lan_qiao\代码\c#\lan银行atm系统\lan银行atm系统\obj\Debug\lan银行atm系统.pdb

@@ -1,0 +1,17 @@
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.csprojAssemblyReference.cache
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form1.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form2.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Properties.Resources.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.csproj.GenerateResource.cache
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.csproj.CoreCompileInputs.cache
+D:\lan_qiao\代码\c#\银行test4\银行test4\bin\Debug\银行test4.exe.config
+D:\lan_qiao\代码\c#\银行test4\银行test4\bin\Debug\银行test4.exe
+D:\lan_qiao\代码\c#\银行test4\银行test4\bin\Debug\银行test4.pdb
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.exe
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.pdb
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form3.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form4.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form5.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form6.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form7.resources
+D:\lan_qiao\代码\c#\银行test4\银行test4\obj\Debug\银行test4.Form10.resources
